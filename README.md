@@ -1,7 +1,25 @@
 # 사진을 선화로 변환
 
+
 ## 소개
-* opencv를 이용해 이미지 전처리로 사진을 선화로 변환
+
+> opencv를 사용해 이미지 전처리로 사진을 선화로 변환
+
+<br>
+
+---
+
+## 사용 툴
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="7%">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="7%"/>
+</p>
+
+> python (opencv): 이미지 전처리
+
+<br>
+
+---
 
 ## 코드
 
