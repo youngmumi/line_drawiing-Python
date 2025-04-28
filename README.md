@@ -3,6 +3,8 @@
 
 ## 소개
 
+<img src="./picture/output/researcher room_lineart.jpg" width="75%">
+
 > opencv를 사용해 이미지 전처리로 사진을 선화로 변환
 
 <br>
